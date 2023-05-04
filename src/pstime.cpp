@@ -3,8 +3,6 @@
 #include <chrono>
 
 #define PROGRAM_NAME "pstime"
-#define DEFAULT_SHELL "exit"
-
 #define EXIT exit(0)
 
 #define DIVISOR 1000000.0
