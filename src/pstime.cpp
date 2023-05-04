@@ -117,8 +117,5 @@ int main(int argc, char* argv[])
     std::cout << "Time taken (in milliseconds): " << duration.count()/1000.0 << std::endl;
     std::cout << "Time taken (in microseconds): " << duration.count() << std::endl;
 
-   // std::cout << "Shell: " << shell << std::endl;
-   // std::cout << "Cmd: " << cmd << std::endl;
-
     return 0; 
 }
